@@ -1,0 +1,6 @@
+gesture_recognition/model/
+gesture_recognition/utils/
+gesture_recognition/keypoint_classification.ipynb
+gesture_recognition/point_history_classification.ipynb
+requirements.txt
+README.md
