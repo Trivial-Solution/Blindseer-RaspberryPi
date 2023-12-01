@@ -131,3 +131,4 @@ dmypy.json
 # bat
 *.bat
 /.idea/
+/gesture_recognition/keys/
